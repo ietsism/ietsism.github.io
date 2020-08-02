@@ -17,7 +17,8 @@ resume: false
 resume-external: false
 resume-url:
 
-url: https://www.ietsism.net
+#url: https://www.ietsism.net
+url: https://ietsism.github.io
 
 permalink: /:title/
 
