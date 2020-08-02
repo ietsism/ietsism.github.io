@@ -26,7 +26,7 @@ Find the privacy policy below. It is based on [here](https://gdpr.eu/privacy-not
     <li>Visitor counts and origins</li>
 </ul>
 <h3>How do I collect your data?</h3>
-<p>You directly provide I with most of the data I collect. I collect data and process data when you:</p>
+<p>You directly provide me with most of the data I collect. I collect data and process data when you:</p>
 <ul>
     <li>Use or view my website via your browser’s cookies.</li>
 </ul>
@@ -36,7 +36,7 @@ Find the privacy policy below. It is based on [here](https://gdpr.eu/privacy-not
     <li>See who visits my blog and how its content is perceived</li>
 </ul>
 <h3>How do I store your data?</h3>
-<p>I do not store your data on any machine within my control. You data might be (and likely will be) stored at Google Analytics and disqus.</p>
+<p>I do not store your data on any machine within my control. Your data might be (and likely will be) stored at Google Analytics and disqus.</p>
 <p>Google Analytics will keep data related to visits for up to 24 months. Once this time period has expired, Google Analytics will automatically delete your
     data.</p>
 <h3>What are cookies</h3>
