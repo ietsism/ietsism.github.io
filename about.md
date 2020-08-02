@@ -2,12 +2,6 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-
-<center>This site reflects my own opinions.</center>
-
----
-
 Find the privacy policy below. It is based on [here](https://gdpr.eu/privacy-notice/). It basically states that I use Google Analytics to collect information about visits to this blog. (I let Google Analytics anonymize IP addresses). I do not incorporate ads or share your data with anyone else besides Google Analytics and disqus.
 <hr>
 <h3 style="text-align: center;">Privacy Policy</h3>

@@ -51,7 +51,7 @@ github: ietsism
 medium: ietsism
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: ietsism@gmail.com
+email: contact@ietsism.net
 
 authors:
   ietsism:
@@ -78,7 +78,7 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
