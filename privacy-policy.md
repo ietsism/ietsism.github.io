@@ -70,5 +70,4 @@ layout: page
     updated on 2 August 2020.</p>
 <h3>How to contact me</h3>
 <p>If you have any questions about this privacy policy, the data I hold of you, or you would like to exercise one of your
-    data protection rights, please do not hesitate to contact me.</p>
-<p>Email me at: {{ site.email }}</p>
+    data protection rights, please do not hesitate to <a href="mailto:{{ site.email | encode_email }}" title="contact me">contact me</a>.</p>
