@@ -18,8 +18,9 @@ GEM
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
     concurrent-ruby (1.1.6)
-    dnsruby (1.61.3)
-      addressable (~> 2.5)
+    cssminify2 (2.0.1)
+    dnsruby (1.61.4)
+      simpleidn (~> 0.1)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -92,6 +93,7 @@ GEM
       rainbow (~> 3.0)
       typhoeus (~> 1.3)
       yell (~> 2.0)
+    htmlcompressor (0.4.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
@@ -126,6 +128,7 @@ GEM
       rouge (>= 2.0, < 4.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
+    jekyll-email-protect (1.1.0)
     jekyll-feed (0.13.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
@@ -136,6 +139,12 @@ GEM
     jekyll-mentions (1.5.1)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
+    jekyll-minifier (0.1.10)
+      cssminify2 (~> 2.0)
+      htmlcompressor (~> 0.4)
+      jekyll (>= 3.5)
+      json-minify (~> 0.0.3)
+      uglifier (~> 4.1)
     jekyll-optional-front-matter (0.3.2)
       jekyll (>= 3.0, < 5.0)
     jekyll-paginate (1.1.0)
@@ -158,6 +167,9 @@ GEM
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-swiss (1.0.0)
+    jekyll-target-blank (2.0.0)
+      jekyll (>= 3.0, < 5.0)
+      nokogiri (~> 1.10)
     jekyll-theme-architect (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -206,6 +218,9 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
+    json (2.3.1)
+    json-minify (0.0.3)
+      json (> 0)
     kramdown (1.17.0)
     liquid (4.0.3)
     listen (3.2.1)
@@ -253,6 +268,8 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
+    simpleidn (0.1.1)
+      unf (~> 0.1.4)
     sinatra (1.4.8)
       rack (~> 1.5)
       rack-protection (~> 1.4)
@@ -272,6 +289,11 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
+    uglifier (4.2.0)
+      execjs (>= 0.3.0, < 3)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     yell (2.2.2)
     zeitwerk (2.4.0)
@@ -283,11 +305,14 @@ DEPENDENCIES
   github-pages
   html-proofer
   jekyll-admin
+  jekyll-email-protect
   jekyll-feed
   jekyll-gist
+  jekyll-minifier
   jekyll-paginate-v2 (~> 2.0)
   jekyll-seo-tag
   jekyll-sitemap
+  jekyll-target-blank
   jemoji
 
 BUNDLED WITH
