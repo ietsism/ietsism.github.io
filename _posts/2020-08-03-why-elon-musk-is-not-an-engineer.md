@@ -39,7 +39,7 @@ I believe the controversy stems from the title of engineer being treated differe
 
 Elon Musk did an undergraduate in Physics and Economics. This does not make you an engineer in my book. But even if we assume that Elon Musk would be an engineer, then what would be his type? Would he be a mechanical engineer? A chemical engineer? An aerospace engineer? There is no evidence that Musk actually (partly) designed any of the creations his companies spawned. As you might know, he created a video game at age 12.[^6] He would be thus more likely be a software engineer. As that is a more recent type of engineering, the title seems to be less protected. Still, similar arguments hold against Musk being labeled engineer. And with Elon's presence on social media, I would label him more of a social engineer: someone who tries to influence the attitude and behavior of groups.
 
-{% include image.html url="/assets/images/posts/elonmusk/elon_musk_tweet" type="png" description="Social engineer displaying the Dunning-Kruger effect: when people with low ability at a task overestimate their ability" %}
+{% include image.html url="/assets/images/posts/elonmusk/elon_musk_tweet.png" description="Social engineer displaying the Dunning-Kruger effect: when people with low ability at a task overestimate their ability" %}
 
 ## Last words
 

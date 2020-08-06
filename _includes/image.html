@@ -1,9 +1,16 @@
 <div style="text-align: center">
-    <figure class="image">
-        <picture>
-            <source srcset="{{ include.url }}.webp" type="image/webp">
-            <img src="{{ include.url }}.{{ include.type }}" loading="lazy" alt="{{ include.description }}">
-        </picture>
+  <figure class="image">
+    <img src="{{ include.url }}" alt="{{ include.description }}">
         <figcaption class="caption">{{ include.description }}</figcaption>
-    </figure>
+  </figure>
 </div>
+
+<!--<div style="text-align: center">-->
+<!--    <figure class="image">-->
+<!--        <picture>-->
+<!--            <source srcset="{{ include.url }}.webp" type="image/webp">-->
+<!--            <img src="{{ include.url }}.{{ include.type }}" loading="lazy" alt="{{ include.description }}">-->
+<!--        </picture>-->
+<!--        <figcaption class="caption">{{ include.description }}</figcaption>-->
+<!--    </figure>-->
+<!--</div>-->
