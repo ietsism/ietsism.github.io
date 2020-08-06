@@ -1,10 +1,9 @@
 <div style="text-align: center">
     <figure class="image">
         <picture>
-            <source srcset="{{ include.url }}.webp" type="image/webp" />
-            <img src="{{ include.url }}.{{ include.type }}" loading="lazy" alt="{{ include.description }}" />
+            <source srcset="{{ include.url }}.webp" type="image/webp">
+            <img src="{{ include.url }}.{{ include.type }}" loading="lazy" alt="{{ include.description }}">
         </picture>
         <figcaption class="caption">{{ include.description }}</figcaption>
-    <!--    <img src="{{ include.url }}" alt="{{ include.description }}">-->
     </figure>
 </div>
