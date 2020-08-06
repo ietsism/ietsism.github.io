@@ -98,6 +98,33 @@ show-author: false
 # do you want some animations?
 animation: true
 
+
+webp:
+  enabled: true
+
+  # The quality of the webp conversion 0 to 100 (where 100 is least lossy)
+  quality: 75
+
+  # List of directories containing images to optimize, nested directories will only be checked if `nested` is true
+  # By default the generator will search for a folder called `/img` under the site root and process all jpg, png and tiff image files found there.
+  img_dir: ["/assets/images/posts/"]
+
+  # Whether to search in nested directories or not
+  nested: true
+
+  # add ".gif" to the format list to generate webp for animated gifs as well
+  formats: [".jpeg", ".jpg", ".png", ".tiff"]
+
+  # File extensions for animated gif files
+  gifs: [".gif"]
+
+  # Set to true to always regenerate existing webp files
+  regenerate: false
+
+  # Local path to the WebP utilities to use (relative or absolute)
+  # Omit or leave as nil to use the utilities shipped with the gem, override only to use your local install
+  webp_path: nil
+
 # add default values to specific pages or layouts
 defaults:
   - scope:
@@ -120,6 +147,7 @@ plugins:
   - jekyll-email-protect
   - jemoji
   - jekyll-target-blank
+  - jekyll-webp
   - jekyll-admin
   - jekyll-paginate-v2
   - jekyll-sitemap
