@@ -172,4 +172,5 @@ exclude:
     "CNAME",
     "Rakefile",
     "script/",
+    "*.bak",
   ]

@@ -124,3 +124,4 @@ modules.xml
 ideas.md
 .gem/
 .sass-cache/
+*.bak
