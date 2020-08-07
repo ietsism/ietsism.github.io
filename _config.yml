@@ -144,7 +144,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
-  - jekyll-email-protect
   - jemoji
   - jekyll-target-blank
   - jekyll-webp
