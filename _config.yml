@@ -146,8 +146,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-target-blank
-  - jekyll-webp
-  - jekyll-admin
   - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-minifier
