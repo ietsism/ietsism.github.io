@@ -23,7 +23,7 @@ I like my iPhone. It has almost been a decade since I have started using one. Be
 I am sure you have all encountered these; persistent pop-up notifications about your battery either being below a 20% or 10% charge. The only way to get rid of these notifications is by pressing the *Dismiss* or *Close* button.
 > Fix: include setting to turn these notifications off.
 
-{% include image.html url="/assets/images/posts/ios/battery" type="jpg" description="Persistent low battery notification on iOS" %}
+{% include image.html url="/assets/images/posts/ios/battery.jpg" description="Persistent low battery notification on iOS" %}
 
 ## Phone call recording
 
@@ -42,7 +42,7 @@ One of my pet peeves is that iOS tends to download updates when your device is c
 Something I encounter regularly: someone (or some *bot*) trying to reach you while you do not want to answer. There is no way to get rid of the incoming call screen unless the other person hangs up or you hit the lock button twice. However, when you do the latter, the other person will receive a busy signal. In case of telemarketers this means that they know the number is in use. For your mother-in-law it means she knows what you are up to. I just want to keep on doing whatever I was doing, ignoring the incoming call without the other side knowing about it.
 > Fix: include option to get out of the incoming call screen unnoticeably.
 
-{% include image.html url="/assets/images/posts/ios/call_screen" type="png" description="A wild call screen appears!" %}
+{% include image.html url="/assets/images/posts/ios/call_screen.png" description="A wild call screen appears!" %}
 
 ## iOS version numbering
 
@@ -90,4 +90,4 @@ Even a near-perfect product has its flaws. As software is not the obstacle to fi
 [^8]: [Something that should not be necessary](https://www.apple.com/shop/product/MMX62AM/A/lightning-to-35-mm-headphone-jack-adapter)
 [^9]: Read more about Bluetooth and Wi-Fi buttons at [Apple](https://support.apple.com/en-us/HT208086)
 [^10]: Read more about risks related these buttons in *Control Center* at [EFF](https://www.eff.org/deeplinks/2017/10/ios-11s-misleading-ish-setting-bluetooth-and-wi-fi-bad-user-security)
-[^11]: [Tracking could be done through Bluetooth](https://www.theverge.com/2019/9/19/20867286/ios-13-bluetooth-permission-privacy-feature-apps)
+[^11]: [Location tracking could be done through Bluetooth](https://www.theverge.com/2019/9/19/20867286/ios-13-bluetooth-permission-privacy-feature-apps)
