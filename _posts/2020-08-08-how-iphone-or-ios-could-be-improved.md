@@ -62,7 +62,7 @@ Ever video called in a darker room? Good luck trying to turn on your flashlight 
 ## Headphone jack
 
 Enough has been written about this already. There is/was enough physical room.[^7] Though technically not a software issue, the fact that iOS still supports a headphone jack through its software (if you buy a $9 adapter[^8] that is) is why it makes my list.
-> Fix: Apple drill a 3.5 mm hole in the bottom (or the top) of your devices and make sure it can communicate with wired headphones.
+> Fix: let Apple drill a 3.5 mm hole in the bottom (or the top) of your device and make sure the hole can communicate with wired headphones.
 
 ## Vibrator
 
