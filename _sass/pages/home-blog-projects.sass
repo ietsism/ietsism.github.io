@@ -55,7 +55,7 @@
         width: 25%
         float: right
         font-weight: 300
-        color: $gama
+        color: $gamma
         text-align: right
         transition: all ease-in-out .2s
 
@@ -72,3 +72,11 @@
         position: relative
         top: -4px
         margin-right: 10px
+
+@media(prefers-color-scheme: dark)
+    .home > .list,
+    .blog > .list,
+    .projects > .list
+
+        > .item:hover > .url > .title
+            color: $delta-dark

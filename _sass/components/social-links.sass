@@ -59,3 +59,15 @@
 
     > .icon
         transition: all ease-in-out .2s
+
+@media(prefers-color-scheme: dark)
+    .social-links
+
+        > .link
+
+            &:hover
+                > .icon
+                    fill: $delta-dark
+
+            &:before
+                background: $beta

@@ -1,12 +1,12 @@
 .evidence
-    background-image: linear-gradient(to bottom, rgba(39,243,106,0.15), rgba(39,243,106,0.15))
-    color: $beta
+    background-image: linear-gradient(to bottom, rgba(246,201,14,0.15), rgba(246,201,14,0.15))
+    color: #000
 
 .star
     > .url > .title
         width: auto !important
         display: inline
-        background-image: linear-gradient(rgba(39,243,106,0.15), rgba(39,243,106,0.15))
+        background-image: linear-gradient(to bottom, rgba(246,201,14,0.15), rgba(246,201,14,0.15))
 
 .twitter-tweet
     margin: 10px auto
@@ -53,10 +53,19 @@
         width: 100%
         text-align: center
         display: block
-        color: $gama
+        color: $gamma
         letter-spacing: 4px
         position: relative
         top: -8px
 
 .lost-container
     text-align: center
+
+@media(prefers-color-scheme: dark)
+    .evidence
+        background-image: linear-gradient(to bottom, rgba(246,201,14,0.4), rgba(246,201,14,0.4))
+        color: #fff
+    
+    
+    .star
+        background-image: linear-gradient(to bottom, rgba(246,201,14,0.4), rgba(246,201,14,0.4))
