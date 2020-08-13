@@ -27,7 +27,7 @@ People in favor of Elon Musk being an engineer refer to an article by the Americ
 
 > I'm an engineer, so what I do is engineering. That's what I'm good at.
 
-You have guessed it, this is a quote from Elon himself. This is where Elon being an engineer comes from. But claiming you are an engineer, does not really make you an engineer, does it? The same article even states right above the quote that he holds no engineering degree. And in the introduction he is referred to as *practical* engineer. (okay that seems to be an actual degree in Israel[^5], but I doubt Elon earned that)
+You have guessed it, this is a quote from Elon himself. This is where Elon being an engineer comes from. But claiming you are an engineer, does not really make you an engineer, does it? The same article even states right above the quote that he holds no engineering degree. And in the introduction he is referred to as *practical* engineer. (Okay, that seems to be an actual degree in Israel[^5], but I doubt Elon earned that)
 
 Some editors on Wikipedia argue that because of the article, those who favor removal or alteration should provide references that Elon Musk is *not* an engineer. That seems to be a bit backwards to me.
 

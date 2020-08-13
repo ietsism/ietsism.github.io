@@ -14,7 +14,7 @@ description: How the software of iPhone (iOS) could be improved on 10 points
 published: true
 ---
 
-I like my iPhone. It has almost been a decade since I have started using one. Before that I owned a 2nd-gen iPod Touch that came with iOS 2. So, with the exception of the first iPhone OS release, I have worked with and experienced all iOS versions on various different hardware (iPod, iPhone, and iPad). In these years I have run into the limitations of the software on several occasions. In this article I would like to share 10 of these limitations and my proposed fixes. Hopefully Apple will implement these one day.
+I like my iPhone. It has almost been a decade since I have started using one. Before that I owned a 2nd-gen iPod Touch that came with iOS 2. So, with the exception of the first iPhone OS release, I have worked with and experienced all iOS versions on various different hardware (iPod, iPhone, and iPad). In these years I have run into the limitations of the software on several occasions. In this article I would like to share 10 of these limitations and my proposed fixes. Hopefully Apple will implement these one day. And while they are at it, maybe they can checkout [macOS]({% post_url 2020-08-13-how-macbook-pro-or-macos-could-be-improved %}) too?
 
 *At the time of writing, the latest version of iOS was `13.6`. I believe these limitations were still present, at least up to that version.*
 
@@ -27,7 +27,7 @@ I am sure you have all encountered these; persistent pop-up notifications about 
 
 ## Phone call recording
 
-A feature I used to use on my old Sony Ericsson dumbphone[^1] was recording phone calls. Especially when receiving important phone calls, being able to record them and listening to them at a later point tends to be useful. (or maybe you would just like to record your own or the other person's voice.) However, it seems like in some countries, like the US of A, this is not allowed without the other person's consent. Nonetheless, we know that Apple is open to adapting their products to various regions. (or is Apple forced to by a certain Asian country?)[^2] But if so, why not enable call recording as well for certain countries?
+A feature I used to use on my old Sony Ericsson dumbphone[^1] was recording phone calls. Especially when receiving important phone calls, being able to record them and listening to them at a later point tends to be useful. (Or maybe you would just like to record your own or the other person's voice?) However, it seems like in some countries, like the US of A, this is not allowed without the other person's consent. Nonetheless, we know that Apple is open to adapting their products to various regions. (or is Apple forced to by a certain Asian country?)[^2] But if so, why not enable call recording as well for certain countries?
 > Fix: you guessed it, incorporate an option to record phone calls (preferably with a button the call screen).
 
 ## Automatic download of updates
@@ -46,7 +46,7 @@ Something I encounter regularly: someone (or some *bot*) trying to reach you whi
 
 ## iOS version numbering
 
-The version numbering of iOS is a bit awkward. At first I thought that Apple wanted to get to iOS 10 ASAP, to have the same version number as its Mac equivalent: OS X (OS 10). But no, Apple changed OS X to *macOS*, ditching the version number implicitly. (maybe because of Windows 10?) Apple releases a new version every year. The yearly release cycle seems a bit artificial. Sometimes new versions release with not-so-major changes, at least that is how it appears to the naked eye. The forced version numbering also has another caveat: it renders software for non-supported hardware, like iPhone 5, to be stuck on something ugly such as `10.3.4`, likely forever.
+The version numbering of iOS is a bit awkward. At first I thought that Apple wanted to get to iOS 10 ASAP, to have the same version number as its Mac equivalent: OS X (OS 10). But no, Apple changed OS X to *macOS*, ditching the version number implicitly. (Maybe because of Windows 10?) Apple releases a new version every year. The yearly release cycle seems a bit artificial. Sometimes new versions release with not-so-major changes, at least that is how it appears to the naked eye. The forced version numbering also has another caveat: it renders software for non-supported hardware, like iPhone 5, to be stuck on something ugly such as `10.3.4`, likely forever.
 > Fix: stick with same major version number for over 1 year.
 
 ## Safari web browser
@@ -76,7 +76,7 @@ Since iOS 11, the Bluetooth and Wi-Fi buttons in *Control Center* actually leave
 
 ## Last words
 
-Even a near-perfect product has its flaws. As software is not the obstacle to fix these limitations, I am sure that some of them will get fixed in the future. And for those that would not get fixed, Apple might have a good reason not to. What do you feel could be improved? Let's discuss it in the comments below.
+Even a near-perfect product like iPhone or [MacBook]({% post_url 2020-08-13-how-macbook-pro-or-macos-could-be-improved %}),has its flaws. As software is not the obstacle to fix these limitations, I am sure that some of them will get fixed in the future. And for those that would not get fixed, Apple might have a good reason not to. What do you feel could be improved? Let's discuss it in the comments below.
 
 ### References
 

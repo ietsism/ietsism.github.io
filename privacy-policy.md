@@ -3,7 +3,7 @@ title: Privacy policy
 layout: page
 ---
 
-<i>Find the privacy policy below. It is based on [here](https://gdpr.eu/privacy-notice/). It basically states that I use Google Analytics to collect information about visits to this blog. (I let Google Analytics anonymize IP addresses). I do not incorporate ads or share your data with anyone else besides Google Analytics and disqus.</i>
+<i>Find the privacy policy below. It is based on [this](https://gdpr.eu/privacy-notice/). It basically states that I use Google Analytics to collect information about visits to this blog. (I let Google Analytics anonymize IP addresses). I do not incorporate ads or share your data with anyone else besides Amazon, Google Analytics, and disqus.</i>
 <hr>
 
 # Privacy policy
