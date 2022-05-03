@@ -13,3 +13,5 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-compose'
 end
+
+gem "webrick", "~> 1.7"
